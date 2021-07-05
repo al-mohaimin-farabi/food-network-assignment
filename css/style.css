@@ -7,7 +7,11 @@
 }
 section{
     width:100%;
-    padding: 20px 0px;
+    padding: 10px 0px;
+    margin-bottom: 20px;
+}
+span{
+    color: #058EF7;
 }
 .center{
     text-align: center;
@@ -40,6 +44,7 @@ section{
     display: inline-block;
     background-image:linear-gradient(to right,#13B8FC, #048CF7 );
     color:#fff;
+    font-size:24px;
     text-decoration: none;
     border-radius: 5px;
     box-shadow: 0px 0px 12px #71c0e2;
@@ -51,18 +56,41 @@ section{
     font-size: 48px;
     color: #000000;
 }
-.top-intro .box-50 h1 span{
-    color: #058EF7;
-}
 .top-intro .box-50 p{
     color: #000000;
-    font-size:22px;
+    font-size:28px;
     margin: 15px 0px;
 }
 .top-intro .box-50 img {
-    width: 65%;
+    width: 450px;
+    height:450px;
+    border-radius: 50%;
 }
 
 /* about me start */
-
-
+.about-me{
+    background-image: url(bg-image/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    padding: 20px 0px;
+}
+.about-me .box-50 img {
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+}
+.about-me .box-50 h2 {
+    color: #000000;
+    font-size: 42px;
+}
+.about-me .box-50 p {
+    color: #000000;
+    font-size: 28px;
+    margin: 20px 0px;
+}
+.about-me .box-50 .diff {
+    color: #000000;
+    font-size: 28px;
+    margin:0px 10px;
+}
