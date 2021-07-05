@@ -92,7 +92,7 @@ p {
     border-radius: 10px;
 }
 .about-me .box-50 p {
-    margin: 20px 0px;
+    margin: 25px 0px 30px;
 }
 .about-me .box-50 .diff {
     color: #000000;
@@ -105,9 +105,6 @@ p {
     width: 50%;
     margin: 0 auto;
     padding: 10px 0px 25px;
-}
-.recipe .box-3 {
-    height:650px;;
 }
 .recipe .headline {
     width: 100%;
