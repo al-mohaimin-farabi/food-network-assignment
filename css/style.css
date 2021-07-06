@@ -141,9 +141,9 @@ footer{
     background-color: #0f0e0e;
 }
 footer .container p {
-    color:#ffffff;
+    color:#fff;
     font-size: 18px;
 }
-footer .container h2 {
-    color:#ffffff;
+footer h2 {
+    color:#fff;
 }
