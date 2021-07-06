@@ -3,7 +3,7 @@
 *{
     padding:0;
     margin:0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 section{
     width:100%;
@@ -55,7 +55,7 @@ p {
 }
 .btn{
     padding:8px 15px;
-    margin:8px 0px;
+    margin:12px 0px 0px;
     display: inline-block;
     background-image:linear-gradient(to right,#13B8FC, #048CF7 );
     color:#fff;
@@ -127,7 +127,7 @@ p {
     color: #058EF7;
 }
 .recipe .recipe-iteam p{
-    font-size: 18px;
+    font-size: 22px;
     margin: 12px 0px;
 }
 
