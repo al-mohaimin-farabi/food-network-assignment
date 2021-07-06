@@ -16,10 +16,12 @@ span{
 h2 {
     color: #000000;
     font-size: 42px;
+    font-weight: 700;
 }
 h3{
     color: #000000;
-    font-size: 38px; 
+    font-size: 38px;
+    font-weight: 700;
 }
 p {
     color: #000000;
@@ -71,6 +73,7 @@ p {
 .top-intro .box-50 h1{
     font-size: 48px;
     color: #000000;
+    font-weight: 700;
 }
 .top-intro .box-50 p{
     margin: 15px 0px;
@@ -121,7 +124,6 @@ p {
 .recipe .recipe-iteam h3{
     font-size: 28px;
     margin: 15px 0px 10px;
-    font-weight: 700;
     color: #058EF7;
 }
 .recipe .recipe-iteam p{
