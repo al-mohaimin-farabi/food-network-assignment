@@ -54,15 +54,15 @@ p {
     border-radius:25px;
 }
 .btn{
-    padding:8px 15px;
-    margin:12px 0px 0px;
+    padding:12px 22px;
+    margin:15px 0px 0px;
     display: inline-block;
     background-image:linear-gradient(to right,#13B8FC, #048CF7 );
     color:#fff;
     font-size:24px;
     text-decoration: none;
-    border-radius: 5px;
-    box-shadow: 0px 0px 12px #71c0e2;
+    border-radius: 35px;
+    box-shadow: 0px 0px 12px rgba(113, 192, 226, .8);
 }
 .headline {
     width: 100%;
